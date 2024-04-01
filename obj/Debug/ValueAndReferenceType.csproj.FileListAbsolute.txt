@@ -1,0 +1,7 @@
+C:\Users\User\Masaüstü\ValueAndReferenceType\bin\Debug\ValueAndReferenceType.exe.config
+C:\Users\User\Masaüstü\ValueAndReferenceType\bin\Debug\ValueAndReferenceType.exe
+C:\Users\User\Masaüstü\ValueAndReferenceType\bin\Debug\ValueAndReferenceType.pdb
+C:\Users\User\Masaüstü\ValueAndReferenceType\obj\Debug\ValueAndReferenceType.csproj.AssemblyReference.cache
+C:\Users\User\Masaüstü\ValueAndReferenceType\obj\Debug\ValueAndReferenceType.csproj.CoreCompileInputs.cache
+C:\Users\User\Masaüstü\ValueAndReferenceType\obj\Debug\ValueAndReferenceType.exe
+C:\Users\User\Masaüstü\ValueAndReferenceType\obj\Debug\ValueAndReferenceType.pdb
